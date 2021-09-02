@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chirag Mittal</h1>
-<h3 align="center">Btech Student @ IIIT Dharwad (2020-2024).</h3>
+<h3 align="center">Btech Student At IIIT Dharwad (2020-2024).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragmittal8011&label=Profile%20views&color=0e75b6&style=flat" alt="chiragmittal8011" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chiragmittal_cm" target="blank"><img src="https://img.shields.io/twitter/follow/chiragmittal_cm?logo=twitter&style=for-the-badge" alt="chiragmittal_cm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chiragmittalcm" target="blank"><img src="https://img.shields.io/twitter/follow/chiragmittalcm?logo=twitter&style=for-the-badge" alt="chiragmittalcm" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/chiragmittal8011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chiragmittal8011" height="30" width="40" /></a>
-<a href="https://twitter.com/chiragmittal_cm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragmittal_cm" height="30" width="40" /></a>
+<a href="https://twitter.com/chiragmittalcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragmittalcm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cmittal" height="30" width="40" /></a>
 <a href="https://fb.com/chirag.mittal.75641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chirag.mittal.75641" height="30" width="40" /></a>
 <a href="https://instagram.com/chiragmittal_cm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiragmittal_cm" height="30" width="40" /></a>
