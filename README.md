@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Mittal</h1>
-<h3 align="center">Btech Student At IIIT Dharwad (2020-2024).</h3>
+<h3 align="center">Btech Student @ IIIT Dharwad (2020-2024).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragmittal8011&label=Profile%20views&color=0e75b6&style=flat" alt="chiragmittal8011" /> </p>
 
