@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/chiragmittalcm" target="blank"><img src="https://img.shields.io/twitter/follow/chiragmittalcm?logo=twitter&style=for-the-badge" alt="chiragmittalcm" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
-
 - 📫 How to reach me **chirag.workid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
