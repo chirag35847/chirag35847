@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Chirag Mittal
 #### Web Dev and Programming 
-![Web Dev and Programming ](https://github.com/chiragmittal8011/chiragmittal8011/blob/main/eat%20sleep%20code%20rep.jpg)
+![Web Dev and Programming ](https://github.com/chiragmittal8011/chiragmittal8011/blob/main/eat%20sleep%20code%20rep%20update.jpg)
 
 I am Chirag Mittal, Btech student @IIIT Dharwad (2020-2024), I like to do competitive programming and web development. I daily solve around 3-4 programming problems and participate in Codechef contests, you can find all my work here.
 
