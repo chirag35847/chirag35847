@@ -1,44 +1,27 @@
-<h1 align="center">Hi 👋, I'm Chirag Mittal</h1>
-<h3 align="center">Btech Student At IIIT Dharwad (2020-2024).</h3>
+### Hi there 👋, I am Chirag Mittal
+#### Web Dev and Programming 
+![Web Dev and Programming ](https://cdn.pixabay.com/photo/2017/08/20/14/37/eat-2661935_960_720.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragmittal8011&label=Profile%20views&color=0e75b6&style=flat" alt="chiragmittal8011" /> </p>
+I am Chirag Mittal, Btech student @IIIT Dharwad (2020-2024), I like to do competitive programming and web development. I daily solve around 3-4 programming problems and participate in Codechef contests, you can find all my work here.
 
-<p align="left"> <a href="https://twitter.com/chiragmittalcm" target="blank"><img src="https://img.shields.io/twitter/follow/chiragmittalcm?logo=twitter&style=for-the-badge" alt="chiragmittalcm" /></a> </p>
+Skills: HTML | CSS | Python | C++ | C | Java | JavaScript
 
-- 📫 How to reach me **chirag.workid@gmail.com**
+- 🌱 I’m currently learning Back End Development 
+- 💬 Ask me about Front End Development 
+- 📫 How to reach me: chirag.workid@gmail.com 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chiragmittal8011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cmittal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/chirag.mittal.75641)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chiragmittal_cm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chiragmittalcm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/chiragmittal8011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/chirag8011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/iitjeechirag/profile)  
 
-<h2> Github Stats </h2>
-<p>
-  
-  
-<a href="https://github.com/chiragmittal8011/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragmittal8011&layout=compact&theme=tokyonight" /></a>
-  <h3>Contributions</h3>
-<a href="https://github.com/chiragmittal8011/github-readme-stats">
-<img  align ="right"src="https://github-readme-stats.vercel.app/api?username=chiragmittal8011&&show_icons=true&theme=radical"/></a>
-</p>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/chiragmittal8011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chiragmittal8011" height="30" width="40" /></a>
-<a href="https://twitter.com/chiragmittalcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragmittalcm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cmittal" height="30" width="40" /></a>
-<a href="https://fb.com/chirag.mittal.75641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chirag.mittal.75641" height="30" width="40" /></a>
-<a href="https://instagram.com/chiragmittal_cm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiragmittal_cm" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chirag8011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chirag8011" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/iitjeechirag/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iitjeechirag/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/ScNrqRJ4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ScNrqRJ4" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragmittal8011)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragmittal8011&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chiragmittal8011)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chiragmittal8011)  
+
+![Profile views](https://gpvc.arturio.dev/chiragmittal8011)  
 <div align ="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
