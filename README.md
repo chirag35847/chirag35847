@@ -2,7 +2,7 @@
 ### Hi there 👋
 <p align="center">
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/world-wide-web.png" width="100">
-<img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/github.png" width="100">
+<img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/profiles/github.png" width="100">
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-c%2B%2B-480.png" width="100">
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-c-programming-480.png" width="100">
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/java.png" width="100">
@@ -21,11 +21,11 @@ I am Chirag Mittal, Btech student @IIIT Dharwad (2020-2024), I like to do compet
 
 <br><br>
 ## My Profiles
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chiragmittal8011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cmittal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/chirag.mittal.75641)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chiragmittal_cm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chiragmittalcm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/chiragmittal8011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/chirag8011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/iitjeechirag/profile)  
+[<img src='https://github.com/chiragmittal8011/chiragmittal8011/blob/main/profiles/github.png' alt='github' height='40'>](https://github.com/chiragmittal8011)  [<img src='https://github.com/chiragmittal8011/chiragmittal8011/blob/main/profiles/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/cmittal/)  [<img src='https://github.com/chiragmittal8011/chiragmittal8011/blob/main/profiles/icons8-facebook-240.png' alt='facebook' height='40'>](https://www.facebook.com/chirag.mittal.75641)  [<img src='https://github.com/chiragmittal8011/chiragmittal8011/blob/main/profiles/icons8-instagram-logo-240.png' alt='instagram' height='40'>](https://www.instagram.com/chiragmittal_cm/)  [<img src='https://github.com/chiragmittal8011/chiragmittal8011/blob/main/profiles/icons8-twitter-240.png' alt='twitter' height='40'>](https://twitter.com/chiragmittalcm) [<img src='https://github.com/chiragmittal8011/chiragmittal8011/blob/main/profiles/codechef-1324440139527402917_512.png' alt='codechef' height='40'>](https://www.codechef.com/users/chirag8011)  [<img src='https://github.com/chiragmittal8011/chiragmittal8011/blob/main/profiles/icons8-geeksforgeeks-240.png' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/iitjeechirag/profile)  
 
 <br><br>
 ## Github Stats
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400px" />  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300px" />  
 
 <img src="https://github-readme-stats.vercel.app/api?username=chiragmittal8011&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragmittal8011&layout=compact&theme=gotham" alt="languages" height="165">
