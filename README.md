@@ -12,7 +12,7 @@
    <br><br> 
 </p>
 <h1>I'm <a about="blank" href="https://www.linkedin.com/in/cmittal/">Chirag Mittal</a></h1>
-I am Chirag Mittal, Btech student @IIIT Dharwad (2020-2024), I like to do competitive programming and web development. I daily solve around 3-4 programming problems and participate in Codechef contests, you can find all my work here.
+I am Chirag Mittal, Btech student @IIIT Dharwad (2020-2024), I like to do competitive programming (⭐⭐ Codechef) and web development. I daily solve around 3-4 programming problems and participate in Codechef contests, you can find all my work here.
 
 <br><br>
 - 🌱 I’m currently learning Back End Development and Android Development
