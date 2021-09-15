@@ -11,7 +11,7 @@
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-git-480.png" width="100">
    <br><br> 
 </p>
-<h1>I'm <a about="blank" href="https://www.linkedin.com/in/cmittal/">Chirag Mittal</a></h1>
+<h1>I'm <a target="blank" href="https://www.linkedin.com/in/cmittal/">Chirag Mittal</a></h1>
 I am Chirag Mittal, Btech student @IIIT Dharwad (2020-2024), I like to do competitive programming (⭐⭐ Codechef) and web development. I daily solve around 3-4 programming problems and participate in Codechef contests, you can find all my work here.
 
 <br><br>
