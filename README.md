@@ -9,6 +9,7 @@
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/python.png" width="100">
 <!-- <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/android.png" width="100"> -->
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-git-480.png" width="100">
+   <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-jquery-500.png" width="100">
    <br><br> 
 </p>
 <h1>I'm <a target="blank" href="https://www.linkedin.com/in/cmittal/">Chirag Mittal</a></h1>
