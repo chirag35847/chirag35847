@@ -6,7 +6,7 @@
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-c%2B%2B-480.png" width="100">
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-c-programming-480.png" width="100">
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/java.png" width="100">
-<img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/python.png" width="100">
+<img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-python-480.png" width="100">
 <!-- <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/android.png" width="100"> -->
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-git-480.png" width="100">
    <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-jquery-500.png" width="100">
