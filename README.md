@@ -13,10 +13,10 @@
    <br><br> 
 </p>
 <h1>I'm <a target="blank" href="https://www.linkedin.com/in/cmittal/">Chirag Mittal</a></h1>
-I am Chirag Mittal, Btech student @IIIT Dharwad (2020-2024), Doing Competitive Programming @Codechef, Actively participating in Codechef Contests, Full-stack web developer using MERN stack. Learning Flutter 🙂
+Btech student @IIIT Dharwad (2020-2024), Doing Competitive Programming @Codechef, Actively participating in Codechef Contests, Full-stack web developer using MERN stack. Learning Flutter 🙂
 
 <br><br>
-- 🌱 I’m currently learning Back End Development and Android Development
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me about MERN Stack 
 - 📫 How to reach me: chirag.workid@gmail.com 
 
