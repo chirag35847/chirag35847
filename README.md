@@ -1,23 +1,23 @@
 ![Profile views](https://gpvc.arturio.dev/chiragmittal8011) 
 ### Hi there 👋
 <p align="center">
-<img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/world-wide-web.png" width="100">
-<img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/profiles/github.png" width="100">
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-c%2B%2B-480.png" width="100">
-<img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-c-programming-480.png" width="100">
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/java.png" width="100">
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-python-480.png" width="100">
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/mongodb_original_wordmark_logo_icon_146425.png" width="100">
+<img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/express_try3.png" width="100">
+<img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/reactjs.png" width="100">
+<img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/node_js_new.png" width="100">
 <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-git-480.png" width="100">
-   <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-jquery-500.png" width="100">
+<!--    <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-jquery-500.png" width="100"> -->
    <br><br> 
 </p>
 <h1>I'm <a target="blank" href="https://www.linkedin.com/in/cmittal/">Chirag Mittal</a></h1>
-I am Chirag Mittal, Btech student @IIIT Dharwad (2020-2024), I like to do competitive programming (⭐⭐⭐Codechef) and web development. I daily solve around 3-4 programming problems and participate in Codechef contests, you can find all my work here.
+I am Chirag Mittal, Btech student @IIIT Dharwad (2020-2024), Doing Competitive Programming @Codechef, Actively participating in Codechef Contests, Full-stack web developer using MERN stack. Learning Flutter 🙂
 
 <br><br>
 - 🌱 I’m currently learning Back End Development and Android Development
-- 💬 Ask me about Front End Development 
+- 💬 Ask me about MERN Stack 
 - 📫 How to reach me: chirag.workid@gmail.com 
 
 <br><br>
