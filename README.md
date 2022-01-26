@@ -34,7 +34,7 @@ Btech student @IIIT Dharwad (2020-2024), Doing Competitive Programming @Codechef
 <img src="https://github-readme-stats.vercel.app/api?username=chirag-mittal-iiitdwd&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-mittal-iiitdwd&layout=compact&theme=gotham" alt="languages" height="165">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragmittal8011&layout=compact&theme=gotham" alt="sxmeer-ahmed" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-mittal-iiitdwd&layout=compact&theme=gotham" alt="sxmeer-ahmed" />
 
 
 <div align ="center">
