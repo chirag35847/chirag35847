@@ -1,13 +1,12 @@
 ![Profile views](https://gpvc.arturio.dev/chiragmittal8011) 
 ### Hi there 👋
 <p align="center">
-<img src="https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/images/java.png" width="100">
-<img src="https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/images/icons8-python-480.png" width="100">
+<!-- <img src="https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/images/icons8-python-480.png" width="100"> -->
    <img src="https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/images/icons8-c%2B%2B-480.png" width="100">
 <img src="https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/images/mongodb_original_wordmark_logo_icon_146425.png" width="100">
 <img src="https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/images/express_try3.png" width="100">
 <img src="https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/images/reactjs.png" width="100">
-<img src="https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/images/node_js_new.png" width="100">
+<img src="https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/images/node_js_new.png" width="100"><img src="https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/images/flutter.png" width="100">
 <img src="https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/images/icons8-git-480.png" width="100">
 <!--    <img src="https://github.com/chiragmittal8011/chiragmittal8011/blob/main/images/icons8-jquery-500.png" width="100"> -->
    <br><br> 
