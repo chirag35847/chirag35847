@@ -28,7 +28,7 @@ Btech student @IIIT Dharwad (2020-2024), Doing Competitive Programming @Codechef
 
 <br><br>
 ## Github Stats
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300px" />  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="150px" />  
 
 <img src="https://github-readme-stats.vercel.app/api?username=chirag-mittal-iiitdwd&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-mittal-iiitdwd&layout=compact&theme=gotham" alt="languages" height="165">
