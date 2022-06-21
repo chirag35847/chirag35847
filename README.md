@@ -12,11 +12,11 @@
    <br><br> 
 </p>
 <h1>I'm <a target="blank" href="https://www.linkedin.com/in/chirag-mittal-iiitdwd/">Chirag Mittal</a></h1>
-Btech student @IIIT Dharwad (2020-2024), Doing Competitive Programming @Codechef, Actively participating in Codechef Contests, Full-stack web developer using MERN stack. Learning Flutter 🙂
+IIITDWD'24, Competetive Programmer and Full Stack Web and App Developer
 
 <br><br>
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about MERN Stack 
+- 🌱 Learning everyday
+- 💬 Ask me about MERN Stack and Flutter 
 - 📫 How to reach me: chirag.workid@gmail.com 
 
 <br><br>
@@ -28,7 +28,7 @@ Btech student @IIIT Dharwad (2020-2024), Doing Competitive Programming @Codechef
 
 <br><br>
 ## Github Stats
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="150px" />  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height='350px' />  
 
 <img src="https://github-readme-stats.vercel.app/api?username=chirag-mittal-iiitdwd&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-mittal-iiitdwd&layout=compact&theme=gotham" alt="languages" height="165">
