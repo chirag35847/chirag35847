@@ -23,8 +23,6 @@ IIITDWD'24, Competetive Programmer and Full Stack Web and App Developer
 ## My Profiles
 [<img src='https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/profiles/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/chirag-mittal-iiitdwd/) 
 [<img src='https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/profiles/leetcode.png' alt='linkedin' height='40'>](https://leetcode.com/chirag-mittal-iiitdwd/)
-[<img src='https://github.com/chiragmittal8011/chiragmittal8011/blob/main/profiles/icons8-twitter-240.png' alt='twitter' height='40'>](https://twitter.com/chiragmittalcm) [<img src='https://cdn.codechef.com/sites/all/themes/abessive/cc-logo-sd.svg' alt='codechef' height='40'>](https://www.codechef.com/users/chirag8011)  [<img src='https://github.com/chiragmittal8011/chiragmittal8011/blob/main/profiles/icons8-geeksforgeeks-240.png' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/chiragmittaliiitdwd)
-[<img src='https://github.com/chirag-mittal-iiitdwd/chirag-mittal-iiitdwd/blob/main/profiles/discord.png' alt='Discord' height='40'>](https://discord.gg/m24HKWSZ)
 
 <br><br>
 ## Github Stats
