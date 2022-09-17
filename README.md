@@ -22,11 +22,11 @@ IIITDWD'24, Competetive Programmer and Full Stack Web and App Developer
 <br><br>
 ## My Profiles
 [<img src='https://github.com/chirag35847/chirag35847/blob/main/profiles/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/chirag35847/) 
-[<img src='https://github.com/chirag35847/chirag35847/blob/main/profiles/leetcode.png' alt='linkedin' height='40'>](https://leetcode.com/chirag35847/)
+[<img src='https://github.com/chirag35847/chirag35847/blob/main/profiles/leetcode.png' alt='linkedin' height='40'>](https://leetcode.com/chirag1293/)
 
 <br><br>
 ## Github Stats
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height='350px' />  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height='300px' />  
 
 <img src="https://github-readme-stats.vercel.app/api?username=chirag35847&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag35847&layout=compact&theme=gotham" alt="languages" height="165">
