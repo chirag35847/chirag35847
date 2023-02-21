@@ -12,7 +12,7 @@
    <br><br> 
 </p>
 <h1>I'm <a target="blank" href="https://www.linkedin.com/in/chirag35847/">Chirag Mittal</a></h1>
-IIITDWD'24, Competetive Programmer and Full Stack Web and App Developer
+IIITDWD'24, Competetive Programmer and Full Stack Developer
 
 <br><br>
 - 🌱 Learning everyday
@@ -31,7 +31,7 @@ IIITDWD'24, Competetive Programmer and Full Stack Web and App Developer
 <img src="https://github-readme-stats.vercel.app/api?username=chirag35847&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag35847&layout=compact&theme=gotham" alt="languages" height="165">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag35847&layout=compact&theme=gotham" alt="sxmeer-ahmed" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag35847&layout=compact&theme=gotham" alt="sxmeer-ahmed" /> -->
 
 
 <div align ="center">
