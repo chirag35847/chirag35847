@@ -16,12 +16,10 @@ IIITDWD'24, Competetive Programmer and Full Stack Developer
 
 - Leetcode top 8%
 - 🌱 Learning everyday : SDE Intern At Asira
-- 💬 Ask me about MERN Stack and Flutter 
+- 💬 Ask me about MERN Stack, Flutter and next.js
 - 📫 How to reach me: chirag35847@gmail.com
 - Looking For JS Dev Roles
 
-## My Leetcode Profile
-<img src="https://github.com/chirag35847/chirag35847/blob/main/images/Screenshot%20from%202023-10-01%2019-21-36.png">
 
 <!-- ## My Profiles
 [<img src='https://github.com/chirag35847/chirag35847/blob/main/profiles/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/chirag35847/) 
